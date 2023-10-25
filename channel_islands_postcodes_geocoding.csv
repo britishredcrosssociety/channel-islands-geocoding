@@ -1,0 +1,31 @@
+﻿Postcode district,Sector(s),Unit codes,Regex,Parish or island,Lat,Long
+GY1,"1, 2, 3, 4, 6, 7",,GY1 [1-7][A-Z][A-Z],Saint Peter Port,49.46,-2.54
+GY1,3,HR,GY1 3HR,Herm,49.47,-2.45
+GY1,4,AB,GY1 4AB,Jethou,49.46,-2.46
+GY2,all,,GY2 [0-9][A-Z][A-Z],Saint Sampson,49.48,-2.52
+GY3,all,,GY3 [0-9][A-Z][A-Z],Vale,49.49,-2.54
+GY4,all,,GY4 [0-9][A-Z][A-Z],Saint Martin,49.43,-2.56
+GY5,all,,GY5 [0-9][A-Z][A-Z],Castel,49.46,-2.57
+GY6,8,AA – QZ,GY6 8[A-Q][A-Z],Vale,49.49,-2.54
+GY6,8,RA – ZZ,GY6 8[R-Z][A-Z],Saint Andrew,49.45,-2.58
+GY7,9,,GY7 9[A-Z][A-Z],Saint Pierre du Bois & Saint Saviour,49.44,-2.63
+GY8,0,AA – JZ,GY8 0[A-J][A-Z],Forest,49.43,-2.60
+GY8,0,KA – ZZ,GY8 0[K-Z][A-Z],Torteval,49.43,-2.66
+GY9,3,,GY9 3[A-Z][A-Z],Alderney,49.72,-2.21
+GY10,1,,GY10 1[A-Z][A-Z],Sark,49.43,-2.36
+JE1,various,,JE1 [0-9][A-Z][A-Z],large users,49.18,-2.11
+JE2,3,,JE2 3[A-Z][A-Z],Saint Helier,49.18,-2.11
+JE2,4,,JE2 4[A-Z][A-Z],Saint Helier,49.18,-2.11
+JE2,6,,JE2 6[A-Z][A-Z],Saint Clement,49.17,-2.06
+JE2,7,,JE2 7[A-Z][A-Z],Saint Saviour,49.19,-2.09
+JE3,1,,JE3 1[A-Z][A-Z],Saint Lawrence,49.22,-2.14
+JE3,2,,JE3 2[A-Z][A-Z],Saint Ouen,49.23,-2.20
+JE3,3,,JE3 3[A-Z][A-Z],Saint Mary,49.23,-2.17
+JE3,4,,JE3 4[A-Z][A-Z],Saint John,49.25,-2.14
+JE3,5,,JE3 5[A-Z][A-Z],Trinity,49.23,-2.09
+JE3,6,,JE3 6[A-Z][A-Z],Saint Martin,49.22,-2.05
+JE3,7,,JE3 7[A-Z][A-Z],Saint Peter,49.21,-2.18
+JE3,8,,JE3 8[A-Z][A-Z],Saint Brélade,49.19,-2.20
+JE3,9,,JE3 9[A-Z][A-Z],Grouville,49.18,-2.05
+JE4,various,,JE4 [0-9][A-Z][A-Z],PO boxes,49.18,-2.11
+JE5,various,,JE5 [0-9][A-Z][A-Z],bespoke delivery,49.18,-2.11
